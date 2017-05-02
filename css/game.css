@@ -1,0 +1,37 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#baseHeaderDiv {
+	height: 20%;
+	width: 100%;
+}
+
+#baseBodyDiv {
+	height: 60%;
+	width: 100%;
+}
+
+#baseLeftMarginDiv {
+	float: left;
+	height: 100%;
+	width: 20%;
+}
+
+#baseCenterDiv {
+	float: left;
+	height: 100%;
+	width: 60%;
+}
+
+#baseRightMarginDiv {
+	float: left;
+	height: 100%;
+	width: 20%;
+}
+
+#baseFooterDiv {
+	height: 20%;
+	width: 100%;
+}
